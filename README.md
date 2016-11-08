@@ -14,3 +14,7 @@ This project is done purely in Python and depends on 'numpy' package for matrix 
 # Version and updates
 
 This project is finished in May, 2016. I won't update it in the future.
+
+# Contact
+
+If there were any questions regarding this project, please contact [geqian@outlook.com](mailto:geqian@outlook.com). For more information about the author, you may check [my website](https://nlperic.github.io/) for details.
