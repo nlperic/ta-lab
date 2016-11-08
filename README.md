@@ -1,6 +1,6 @@
 # Introduction
 
-[ta-lab](https://github.com/nlperic/ta-lab) is a tool to assign travel demand to network following the user equilibrium principle. It has the following components which enable it to do pathfinding and path flow updating
+[TA-lab](https://github.com/nlperic/ta-lab) is a tool to assign travel demand to network following the user equilibrium principle. It has the following components which enable it to do pathfinding and path flow updating
 
 - 'shortest_path' and 'kspp_yen' implements Dijkstra algorithm for shortest path and Yen's algorithm for finding K-shortest path.
 - 'graph' deals with the network structure, it is independent with the 'networkx' package
