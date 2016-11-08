@@ -5,7 +5,7 @@
 - 'shortest_path' and 'kspp_yen' implements Dijkstra algorithm for shortest path and Yen's algorithm for finding K-shortest path.
 - 'graph' deals with the network structure, it is independent with the 'networkx' package
 - 'line' gives a bi-section search method to determine the step size of line search
-- 'assign' is the main operator to map OD demand to path flow, it has two options: MSA and Frank-Wolfe.
+- 'assign' is the main operator to map OD demand to path flow. There are two options: MSA and Frank-Wolfe.
 
 # Dependencies
 
